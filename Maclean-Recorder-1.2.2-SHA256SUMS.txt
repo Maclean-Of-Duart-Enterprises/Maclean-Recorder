@@ -1,0 +1,3 @@
+bda6d90016c9c96ab6ecefd1c0e7506b9d112bb7990dbda7c7702a9e4e84d7b7  Maclean-Recorder-1.2.2-Signed.apk
+6d70a690bc15d7e0f63f4cd6584f7944151f863ed5f35ad92f6d8f7bad6424c2  Maclean-Recorder-1.2.2-Work-Chat-Build-Ready-Source.zip
+1d5f47d497bd2feb4cda73532527ea5f8ccb2d71781f668048f1b4e4b610b6b0  Maclean-Recorder-1.2.2-Release-Audit.md
