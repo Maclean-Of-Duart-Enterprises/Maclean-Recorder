@@ -1,7 +1,3 @@
-# Maclean-Voice
-Maclean Voice is a versatile voice recording app AGPLv3 licensed for Android devices
-# Maclean Recorder
-
 **Maclean Recorder** is a privacy-focused, open-source Android audio recorder designed for local recording without cloud services, accounts, or Internet access.
 
 It supports microphone recording, Android device-audio capture, and simultaneous device + microphone recording, with MP3 as the default audio format.
